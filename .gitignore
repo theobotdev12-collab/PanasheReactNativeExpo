@@ -1,0 +1,9 @@
+mpilo_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+frontend1/node_modules/
+
